@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Kiran G
+- 👀 I’m interested in Web Development!
+- 🌱 I’m currently learning Full-Stack Development.
+- 📫 Reach me- mail@kirang.me
